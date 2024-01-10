@@ -127,7 +127,7 @@ class Calculadora implements ActionListener {
         buttonCinco.setForeground(Color.white);
         marco.add(buttonCinco);
 
-        buttonSeis.setBounds(150, 290, 60, 40);
+        buttonSeis.setBounds(80, 290, 60, 40);
         buttonSeis.setFont(new Font("Arial", Font.BOLD, 20));
         buttonSeis.setBackground(pastel);
         buttonSeis.setForeground(Color.white);
